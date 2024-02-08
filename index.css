@@ -1,0 +1,30 @@
+body {
+    font-family: 'Noto Serif';
+    font-size: 22px;
+    background-color: #16839E;   
+}
+
+.cor1 {
+    background-color: greenyellow;
+}
+.cor2 {
+    background-color: rgb(93, 93, 255);
+}
+.cor3 {
+    background-color: rgb(245, 92, 92);
+}
+.cor4 {
+    background-color: rgb(255, 255, 116);
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tamanho {
+    width: 400px;
+    height: 400px;
+}
+
